@@ -1,5 +1,11 @@
 # ratenkauf by easyCredit PHP SDK (unofficial)
 
+# Deprecation Notice 
+
+**This repository is deprecated, development has been moved to https://github.com/teambank/ratenkaufbyeasycredit-lib-php**
+
+# Description
+
 The PHP SDK is a simplified and purpose oriented library for integration of ratenkauf by easyCredit. It is used in the following e-commerce plugins:
 
 * Magento 1
